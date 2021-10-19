@@ -18,7 +18,7 @@ int main(){
 
     cout << "[ " ; 
 
-    //Prints out the output of the array
+    //Prints out the output of the array.
     for(int i = 0; i < y.size(); i++){
         if(i == (y.size() - 1)){
             cout << y[i] ;
