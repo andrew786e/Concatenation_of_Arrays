@@ -26,7 +26,7 @@ class Concat_Arrays {
     private:
 
     //This function adds all the arrays in a vector list
-    //Arguments: Arrays and Array sizes
+    //Arguments: Arrays and Array sizes.
     void combine_value(int* first_val, int array_size) ;
 
     int size_of ;
